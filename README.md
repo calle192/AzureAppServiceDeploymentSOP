@@ -9,6 +9,7 @@ Assumptions:
               -You have an Azure Resource group already created (See AzureResourceGroupCreationSOP).
               -You are using Chrome as your browser.
               -This is a simple, manual deployment. No containers and settings are kept simple.
+              -Your application uses .NET 8.0
 Notes: I used my own Azure environment on Azures free tier pricing plan for this project.
 
   A.) How to log into Azure from PowerShell
